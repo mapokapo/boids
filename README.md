@@ -18,7 +18,7 @@ This project uses **Typescript ^3.8.3**, **Webpack ^4.43.0**, **Webpack CLI ^3.3
 
 ## Todo
 - [x] Implement checkIntersection()
-- [ ] Update engine.js in graphical-engine to this one cuz its better
+- [x] Update engine.js in graphical-engine to this one cuz its better
 - [x] Maybe make a github
 - [ ] Implement avoidance algo
 
